@@ -1,13 +1,13 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.4 Safari/605.1.15" version="29.1.0">
   <diagram name="Page-1" id="dLXfGQLBXDbCqZh51HqO">
-    <mxGraphModel dx="2276" dy="860" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1826" dy="860" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="MmOWgafTc6DJ3O86IvOK-99" edge="1" parent="1" source="FbT7-SjCH1QRI9p_ao_N-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Helvetica;fontSize=12;fontColor=default;fontStyle=1;" target="MmOWgafTc6DJ3O86IvOK-14">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="FbT7-SjCH1QRI9p_ao_N-1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" value="&lt;b&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;Input: 8 frames × 32×32×3&lt;/font&gt;&lt;/b&gt;" vertex="1">
+        <mxCell id="FbT7-SjCH1QRI9p_ao_N-1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" value="&lt;b&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;Input: 8 frames × 32×32×3&lt;/font&gt;&lt;/b&gt;" vertex="1">
           <mxGeometry height="80" width="160" x="-40" y="340" as="geometry" />
         </mxCell>
         <mxCell id="MmOWgafTc6DJ3O86IvOK-100" edge="1" parent="1" source="MmOWgafTc6DJ3O86IvOK-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Helvetica;fontSize=12;fontColor=default;fontStyle=1;" target="MmOWgafTc6DJ3O86IvOK-38">
